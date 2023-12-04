@@ -86,12 +86,6 @@ div{
     .div3{
         width: 100%;
     }
-    .box-title3{
-        position: absolute;
-        top: 0;
-        left: 83%;
-    }
-
 }
 
 @media (max-width: 767px){
